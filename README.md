@@ -6,5 +6,5 @@ To run the code, please prepare the anaconda environment by running conda env cr
 
 
 # Dataset
-We use the same dataset as helixgan. Data could be accessed by https://www.dropbox.com/s/5385tq8ukebwpmi/data_helices.zip?dl=0
+We use the same dataset as helixgan (https://github.com/xxiexuezhi/helix_gan). Data could be accessed by https://www.dropbox.com/s/5385tq8ukebwpmi/data_helices.zip?dl=0
 
