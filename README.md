@@ -10,4 +10,5 @@ We use the same dataset as helixgan (https://github.com/xxiexuezhi/helix_gan). D
 
 # Checkpoints
 3-hotspot Inpainting Conditional genreations checkpoints https://drive.google.com/file/d/15r-9t8KvQY6Mh_7huzTcACTLHQFM9yG7/view?usp=sharing
+4-hotspot Inpainting condtional generations checkpoints https://drive.google.com/file/d/1PkAwoAfZLvA5BVWnu5hyXeSuwavwxZpe/view?usp=drive_link
 
